@@ -3,7 +3,7 @@ Quiz App
 A simple Flutter quiz app that presents questions to users with two buttons for answering: True and False. The app evaluates the user's response against a predefined list of correct answers and provides feedback accordingly.
 
 📱 Screenshots
-![Main Page - Questions Page](/assets/screenshots/screenshot_1.png | height=600)
+<img src="../assets/screenshots/screenshot_1.png" alt="Alt Text" width="250" height="600">
 
 
 🚀 Features
